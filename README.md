@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/19orNPlWntvxJ3Q8pI2DIHPRfB8tW2FIK/view?usp=sharing" alt="Ayodele Ajisegiri — Backend Engineer | Building Reliable & Scalable Systems" width="100%" />
+  <img src="https://github.com/Ayodel1234/Ayodel1234/blob/main/GitHub%20Banner%20Navy%20Gradient%20with%20Code%20Patterns.png" alt="Ayodele Ajisegiri — Backend Engineer | Building Reliable & Scalable Systems" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm <strong>Ayodele Ajisegiri</strong></h1>
 <p align="center">
